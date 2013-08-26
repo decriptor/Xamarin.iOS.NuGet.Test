@@ -1,0 +1,4 @@
+C:\Users\i51179\Documents\GitHub\Xamarin.iOS.NuGet.Test\Test\bin\iPhone\Debug\Test.exe
+C:\Users\i51179\Documents\GitHub\Xamarin.iOS.NuGet.Test\Test\bin\iPhone\Debug\Test.pdb
+C:\Users\i51179\Documents\GitHub\Xamarin.iOS.NuGet.Test\Test\obj\iPhone\Debug\Test.exe
+C:\Users\i51179\Documents\GitHub\Xamarin.iOS.NuGet.Test\Test\obj\iPhone\Debug\Test.pdb
